@@ -1,1 +1,1 @@
-# JS42
+# https://pixelgameweb.github.io/JS42/.
